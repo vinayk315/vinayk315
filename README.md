@@ -1,6 +1,3 @@
-# gh-space-shooter 🚀
-
-Transform your GitHub contribution graph into an epic space shooter game! 
 
 ![Example Game](example.gif)
 
